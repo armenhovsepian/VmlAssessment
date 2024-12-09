@@ -1,7 +1,7 @@
 # VML assessment
 
 ## Architecture
-The application follows a clean architecture, consisting of the following components:
+The application follows clean architecture best practices and guidelines, consisting of the following components:
 
 1. Core: Contains the core functionality of the application, business rules, data validation, entities, DTOs, interfaces ...
 2. Infrastructure: Interacts with the underlying data storage (in this case, an in-memory database) using repositories.
