@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRW2mp7rBgw=",
+  "success": true,
+  "projectFilePath": "F:\\GithubProjects\\VmlAssessment\\src\\Vml.Application\\Vml.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmnho\\.nuget\\packages\\ardalis.result\\10.1.0\\ardalis.result.10.1.0.nupkg.sha512",
+    "C:\\Users\\rmnho\\.nuget\\packages\\ardalis.result.fluentvalidation\\10.1.0\\ardalis.result.fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\rmnho\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

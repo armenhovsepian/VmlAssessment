@@ -1,0 +1,15 @@
+F:\GithubProjects\VmlAssessment\src\Vml.Application\bin\Release\net8.0\Vml.Application.deps.json
+F:\GithubProjects\VmlAssessment\src\Vml.Application\bin\Release\net8.0\Vml.Application.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Application\bin\Release\net8.0\Vml.Application.pdb
+F:\GithubProjects\VmlAssessment\src\Vml.Application\bin\Release\net8.0\Vml.Core.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Application\bin\Release\net8.0\Vml.Core.pdb
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.csproj.AssemblyReference.cache
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.AssemblyInfoInputs.cache
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.AssemblyInfo.cs
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.csproj.CoreCompileInputs.cache
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Appl.2CAFAA7E.Up2Date
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\refint\Vml.Application.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\Vml.Application.pdb
+F:\GithubProjects\VmlAssessment\src\Vml.Application\obj\Release\net8.0\ref\Vml.Application.dll

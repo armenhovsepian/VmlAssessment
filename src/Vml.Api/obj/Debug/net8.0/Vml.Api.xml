@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vml.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.GetAllDataJobs(System.Nullable{System.Int32},System.Nullable{System.Int32},System.Threading.CancellationToken)">
+            <summary>
+            Get all data jobs
+            </summary>
+            <param name="pageNumber">Current page number</param>
+            <param name="pageSize">Page size</param>
+            <param name="cancellationToken"></param>
+            <returns>List of Data jobs</returns>
+            <response code="200">List of dataJob was successfully retrieved.</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.GetDataJobsByStatus(System.Nullable{System.Int32},System.Nullable{System.Int32},Vml.Core.Enums.DataJobStatus,System.Threading.CancellationToken)">
+            <summary>
+            Get all data jobs filtered by status
+            </summary>
+            <param name="pageNumber">Current page number</param>
+            <param name="pageSize">Page size</param>
+            <param name="status">The status of the datajob (new = 0, processing = 1, Completed = 2)</param>
+            <param name="cancellationToken"></param>
+            <returns>List of Data jobs</returns>
+            <response code="200">List of dataJob was successfully retrieved.</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.GetDataJob(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Gets a single dataJob.
+            </summary>
+            <param name="id">The requested dataJob identifier (e.g. 3fa85f64-5717-4562-b3fc-2c963f66afa6)</param>
+            <returns>The requested dataJob.</returns>
+            <response code="200">The dataJob was successfully retrieved.</response>
+            <response code="404">The dataJob does not exist.</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.Create(Vml.Core.Dtos.DataJobDTO,System.Threading.CancellationToken)">
+            <summary>
+            Create a new DataJob
+            </summary>
+            <param name="dataJob">DataJob object</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+            <response code="200">The dataJob was successfully created.</response>
+            <response code="404">Bad request/Ivalid parameters</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.Update(System.Guid,Vml.Core.Dtos.DataJobDTO,System.Threading.CancellationToken)">
+            <summary>
+            Update dataJob by GUID
+            </summary>
+            <param name="id">GUID of the dataJob</param>
+            <param name="dataJob">DataJob object to be updated</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+            <response code="204">The dataJob was successfully updated.</response>
+            <response code="404">The dataJob does not exist.</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Delete dataJob by GUID
+            </summary>
+            <param name="dataJobID">GUID of the dataJob</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+            <response code="204">The dataJob was successfully deleted.</response>
+            <response code="404">The dataJob does not exist.</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.StartBackgroundProcess(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Start DataJob by GUID
+            </summary>
+            <param name="dataJobId">GUID of the dataJob</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+            <response code="202">The dataJob was successfully started.</response>
+            <response code="404">The dataJob does not exist.</response>
+            <response code="400">Invali request.</response>
+        </member>
+        <member name="M:Vml.Api.Controllers.V1.DataProcessorController.GetBackgroundProcessStatus(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Get dataJob status By GUID
+            </summary>
+            <param name="dataJobId">GUID of the dataJob</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+            <response code="200">The dataJob status was successfully retrieved.</response>
+            <response code="404">The dataJob does not exist.</response>
+        </member>
+    </members>
+</doc>

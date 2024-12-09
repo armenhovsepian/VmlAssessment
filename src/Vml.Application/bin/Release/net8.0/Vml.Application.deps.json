@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vml.Application/1.0.0": {
+        "dependencies": {
+          "Ardalis.Result": "10.1.0",
+          "Ardalis.Result.FluentValidation": "10.1.0",
+          "FluentValidation": "11.11.0",
+          "Vml.Core": "1.0.0"
+        },
+        "runtime": {
+          "Vml.Application.dll": {}
+        }
+      },
+      "Ardalis.Result/10.1.0": {
+        "runtime": {
+          "lib/net8.0/Ardalis.Result.dll": {
+            "assemblyVersion": "10.1.0.0",
+            "fileVersion": "10.1.0.0"
+          }
+        }
+      },
+      "Ardalis.Result.FluentValidation/10.1.0": {
+        "dependencies": {
+          "Ardalis.Result": "10.1.0",
+          "FluentValidation": "11.11.0"
+        },
+        "runtime": {
+          "lib/net8.0/Ardalis.Result.FluentValidation.dll": {
+            "assemblyVersion": "10.1.0.0",
+            "fileVersion": "10.1.0.0"
+          }
+        }
+      },
+      "FluentValidation/11.11.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
+        }
+      },
+      "Vml.Core/1.0.0": {
+        "dependencies": {
+          "Ardalis.Result": "10.1.0"
+        },
+        "runtime": {
+          "Vml.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vml.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ardalis.Result/10.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+WgsXh+JRm0d8BZPlBUc5w0+FTda4vbWRa/IF2q4zDoRsU5BXr8w4rTbYEklZIMNgQQZTcNouR/QfBV5I/4XYQ==",
+      "path": "ardalis.result/10.1.0",
+      "hashPath": "ardalis.result.10.1.0.nupkg.sha512"
+    },
+    "Ardalis.Result.FluentValidation/10.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OXfIq2LVnc8YjvpDqud1gJGVaoqOTznA2iSCFA1Ee0ScocXVvXmORWKiABCe3MfGyTg748V+Z7bdiQEXBCFoSQ==",
+      "path": "ardalis.result.fluentvalidation/10.1.0",
+      "hashPath": "ardalis.result.fluentvalidation.10.1.0.nupkg.sha512"
+    },
+    "FluentValidation/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "path": "fluentvalidation/11.11.0",
+      "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
+    },
+    "Vml.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

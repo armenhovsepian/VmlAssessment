@@ -1,0 +1,15 @@
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\bin\Release\net8.0\Vml.Infrastructure.deps.json
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\bin\Release\net8.0\Vml.Infrastructure.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\bin\Release\net8.0\Vml.Infrastructure.pdb
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\bin\Release\net8.0\Vml.Core.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\bin\Release\net8.0\Vml.Core.pdb
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.csproj.AssemblyReference.cache
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.AssemblyInfoInputs.cache
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.AssemblyInfo.cs
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.csproj.CoreCompileInputs.cache
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infr.D389D518.Up2Date
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\refint\Vml.Infrastructure.dll
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\Vml.Infrastructure.pdb
+F:\GithubProjects\VmlAssessment\src\Vml.Infrastructure\obj\Release\net8.0\ref\Vml.Infrastructure.dll
