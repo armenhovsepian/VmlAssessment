@@ -13,7 +13,10 @@ The application follows a clean architecture, consisting of the following compon
 2. Abstraction: The application uses interfaces to define contracts between modules, promoting loose coupling and flexibility.
 3. Dependency Injection: Dependencies are injected into classes, making them easier to test and maintain.
 4. Repository Pattern: The repository pattern is used to abstract data access, making the application more flexible and testable.
-5. Data Validation: Input validation is implemented to ensure data integrity and prevent errors.
+5. Data Validation with FluentValidation: Input validation is implemented to ensure data integrity and prevent errors.
+6. Handling exceptions with Hellang library
+7. API versioning
+8. API documentation with Swagger UI.
 
 ## Future Considerations
 As the application grows in complexity, it may be beneficial to consider the following:
