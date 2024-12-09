@@ -5,7 +5,7 @@ The application follows a clean architecture, consisting of the following compon
 
 1. Core: Contains the core functionality of the application, business rules, data validation, entities, DTOs, interfaces ...
 2. Infrastructure: Interacts with the underlying data storage (in this case, an in-memory database) using repositories.
-3. Application: Handles user cases, user input validation
+3. Application: Handles use cases, user input validation, communication with infrastructure services (DB).
 4. API: displays information using Swagger, and api versioning 
 
 ## Key Design Decisions
